@@ -27,13 +27,12 @@ Application Preview - https://ketandogra.github.io/Quick/
 ## ScreenShot
 
 ### Login Page
-
-![login](https://github.com/ketandogra/Quick/assets/75082428/81c052f0-070f-4974-a2c0-1864c6154faf)
+![login](https://github.com/ketandogra/Quick/assets/75082428/246c7b32-066e-4285-a28e-383c9c759efc)
 
 ### Register Page
-
-![register](https://github.com/ketandogra/Quick/assets/75082428/9bcc8248-a779-4f2e-9d39-5dbd32ceced6)
+![register](https://github.com/ketandogra/Quick/assets/75082428/a70f0672-adc2-4387-be3f-ef2e70748e6a)
 
 ### Chat application Page after successful Authentication
+![homePage](https://github.com/ketandogra/Quick/assets/75082428/b4cc374d-1ab8-4051-a550-668f9eb2bda4)
 
-![homePage](https://github.com/ketandogra/Quick/assets/75082428/86314a31-2a7d-43db-8096-d9163ec5db84)
+
