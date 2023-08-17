@@ -10,7 +10,7 @@ const Routers = () => {
     <Routes>
     
         
-        <Route path="/" element={<ProtectedRouters/>}>
+        <Route path="/*" element={<ProtectedRouters/>}>
         <Route index element={<Home/>}/>
         </Route>
         <Route path='/login' element={<Login/>}/>
